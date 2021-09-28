@@ -31,3 +31,25 @@
     | [005] MySql DB -- (Script que nos permite buscar contrasenias en servicios mysql)       |
     | [000] Salir                                                                             |
     |_________________________________________________________________________________________|
+# Nmap
+Nmap, abreviatura de Network Mapper, es una herramienta gratuita de código abierto para el escaneo de vulnerabilidades y el descubrimiento de redes. Los administradores de red utilizan Nmap para identificar qué dispositivos se están ejecutando en sus sistemas, descubrir hosts que están disponibles y los servicios que ofrecen, encontrar puertos abiertos y detectar riesgos de seguridad. Nmap se puede utilizar para monitorear hosts individuales, así como redes extensas que abarcan cientos de miles de dispositivos y multitudes de subredes.
+
+Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible, en el fondo es una herramienta de escaneo de puertos que recopila información mediante el envío de paquetes sin procesar a los puertos del sistema. Escucha las respuestas y determina si los puertos están abiertos, cerrados o filtrados de alguna manera por, por ejemplo, un firewall. Otros términos utilizados para el escaneo de puertos incluyen descubrimiento o enumeración de puerto
+
+
+
+
+
+--------------------------------
+
+> Instalación
+ (ejecutar como root)
+
+     $ cd Nscript
+     
+     $ chmod + x Nscript.py
+	
+     $ python3 Nscript.py
+   
+
+--------------------------------
