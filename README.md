@@ -1,4 +1,4 @@
-# Nscript
+# Nscript 
 Nscript es un sencillo script escrito en python que nos ayuda a acceder a algunas funcionalidades de  nmap de manera rapida y sencilla el codigo de este es extremadamente sencillo  y muy mejorable  lo subo porque fue uno de mis primeros proyectos  y  le tengo mucho cariño (Pronto subire  el mismo proyecto con la libreria de nmap)
 
 <IMG SRC = "https://github.com/cabesonwiliams/Nscript/blob/main/gif.gif">
@@ -61,7 +61,10 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
      $ chmod + x Nscript.py
 	
      $ python3 Nscript.py
-   
+	
+     /Para su correcto funcionamiento usar kali lunux o parrot os de lo contrario instalar nmap en su sistema operativo/
+	
 
 --------------------------------
+	
 # by cabeson sin z
