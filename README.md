@@ -42,8 +42,8 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
 
 
 --------------------------------
-
 > Instalación
+> git clone https://github.com/cabesonwiliams/Nscript.git
  (ejecutar como root)
 
      $ cd Nscript
