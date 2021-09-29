@@ -1,6 +1,10 @@
 # Nscript
 Nscript es un sencillo script escrito en python que nos ayuda a acceder a algunas funcionalidades de  nmap de manera rapida y sencilla el codigo de este es extremadamente sencillo  y muy mejorable  lo subo porque fue uno de mis primeros proyectos  y  le tengo mucho cariño 
-# Menu
+
+#Menu 
+
+
+
      _________________________________________________________________________________________
     | [0] Nmap help                                                                           |
     | [1] Scanear 1000 puertos famosos                                                        |
@@ -12,11 +16,11 @@ Nscript es un sencillo script escrito en python que nos ayuda a acceder a alguna
     | [7] Scanear SubRed                                                                      |
     | [8] Scanear un solo puerto                                                              |
     | [9] Scaneo silencioso - No deja rastros en el servidor...                               |
-    | [10] Host activos en la web + trace route (RH)                                          | 
-    | [11] Host activos en una red (LH)                                                       | 
-    | [12] Evadir IDS                                                                         |
-    | [13] Confundir al firewall para que suelte datos importantes                            | 
-    | [14] Utilizar seÃ±uelos - para que un IDS no nos detecte - Host fake                    |  
+    | [10] Host activos en la web + trace route (RH)                                          |
+    | [11] Host activos en una red (LH)                                                       |
+    | [12] Identidicar IP                                                                     |
+    | [13] Confundir al firewall para que suelte datos importantes                            |
+    | [14] Utilizar seÃ±uelos - para que un IDS no nos detecte - Host fake                    |
     | [15] Detectar Firewall                                                                  |
     | [16] Deteccion de Firewall exacta                                                       |
     | [17] Escaneo agresivo - Puede dejar rastros en el servidor                              |
@@ -32,6 +36,8 @@ Nscript es un sencillo script escrito en python que nos ayuda a acceder a alguna
     | [005] MySql DB -- (Script que nos permite buscar contrasenias en servicios mysql)       |
     | [000] Salir                                                                             |
     |_________________________________________________________________________________________|
+    
+    
 # Nmap
 Nmap, abreviatura de Network Mapper, es una herramienta gratuita de código abierto para el escaneo de vulnerabilidades y el descubrimiento de redes. Los administradores de red utilizan Nmap para identificar qué dispositivos se están ejecutando en sus sistemas, descubrir hosts que están disponibles y los servicios que ofrecen, encontrar puertos abiertos y detectar riesgos de seguridad. Nmap se puede utilizar para monitorear hosts individuales, así como redes extensas que abarcan cientos de miles de dispositivos y multitudes de subredes.
 
