@@ -43,9 +43,11 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
 
 --------------------------------
 > Instalación
-> git clone https://github.com/cabesonwiliams/Nscript.git
+> 
  (ejecutar como root)
-
+ 
+     $ git clone https://github.com/cabesonwiliams/Nscript.git 
+    
      $ cd Nscript
      
      $ chmod + x Nscript.py
