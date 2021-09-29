@@ -1,4 +1,5 @@
 # Nscript
+Nscript es un sencillo script escrito en python que nos ayuda a acceder a algunas funcionalidades de  nmap de manera rapida y sencilla el codigo de este es extremadamente sencillo  y muy mejorable  lo subo porque fue uno de mis primeros proyectos  y  le tengo mucho cariño 
 # Menu
      _________________________________________________________________________________________
     | [0] Nmap help                                                                           |
