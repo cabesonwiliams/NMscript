@@ -38,7 +38,7 @@ Nscript es un sencillo script escrito en python que nos ayuda a acceder a alguna
     | [005] MySql DB -- (Script que nos permite buscar contrasenias en servicios mysql)       |
     | [000] Salir                                                                             |
     |_________________________________________________________________________________________|
-    
+ <IMG SRC = "https://github.com/cabesonwiliams/Nscript/blob/main/Nscript2.PNG">   
     
 # Nmap
 Nmap, abreviatura de Network Mapper, es una herramienta gratuita de código abierto para el escaneo de vulnerabilidades y el descubrimiento de redes. Los administradores de red utilizan Nmap para identificar qué dispositivos se están ejecutando en sus sistemas, descubrir hosts que están disponibles y los servicios que ofrecen, encontrar puertos abiertos y detectar riesgos de seguridad. Nmap se puede utilizar para monitorear hosts individuales, así como redes extensas que abarcan cientos de miles de dispositivos y multitudes de subredes.
