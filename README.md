@@ -35,7 +35,7 @@ NMscript es un sencillo script escrito en python que nos ayuda a acceder a algun
     | [002] Safe script nmap -- (Script que permite un escaneo silencioso)                    |
     | [003] Vuln script --  (Script que busca vulnerabilidades)                               |
     | [004] Dns Search --  (Script utilizado para la busqueda de subdominios)                 |
-    | [005] MySql DB -- (Script que nos permite buscar contrasenias en servicios mysql)       |
+    | [005] MySql DB -- (Script que nos permite buscar contraseñas en servicios mysql)       |
     | [000] Salir                                                                             |
     |_________________________________________________________________________________________|
  <IMG SRC = "https://github.com/cabesonwiliams/Nscript/blob/main/Nscript2.PNG">   
