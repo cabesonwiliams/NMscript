@@ -54,13 +54,13 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
 > 
  (ejecutar como root)
  
-     $ git clone https://github.com/cabesonwiliams/Nscript.git 
+     $ git clone https://github.com/cabesonwiliams/NMscript.git 
     
-     $ cd Nscript
+     $ cd NMscript
      
-     $ chmod + x Nscript.py
+     $ chmod + x NMscript.py
 	
-     $ python3 Nscript.py
+     $ python3 NMscript.py
 	
      /Para su correcto funcionamiento usar kali lunux o parrot os de lo contrario instalar nmap en su sistema operativo/
 	
