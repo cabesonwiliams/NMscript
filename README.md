@@ -48,9 +48,7 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
  
      $ git clone https://github.com/cabesonwiliams/NMscript.git 
     
-     $ cd NMscript
-     
-     $ chmod + x NMscript.py
+     $ cd NMscript   
 	
      $ python3 NMscript.py
 	
