@@ -52,7 +52,7 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
 	
      $ python3 NMscript.py
 	
-     /Para su correcto funcionamiento usar kali lunux o parrot os de lo contrario instalar nmap en su sistema operativo/
+     /Para su correcto funcionamiento usar kali linux o parrot os de lo contrario instalar nmap en su sistema operativo/
 	
 
 --------------------------------
