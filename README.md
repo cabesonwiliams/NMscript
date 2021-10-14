@@ -58,3 +58,9 @@ Aunque Nmap ha evolucionado a lo largo de los años y es extremadamente flexible
 --------------------------------
 	
 # by cabeson sin z
+	 
+Version para termux
+[NM-Termux](https://github.com/cabesonwiliams/NM-Termux)
+Version in english from NMscript
+[NMscript-EN-](https://github.com/cabesonwiliams/NMscript-EN-)	 
+	 
