@@ -205,7 +205,7 @@ def nmap():
         os.system("clear")
         print("\033[1;36m" + banner1)
         slut = input("\033[1;36m" +"Introduzca una ip u pagina web ( e.j https://googlesource.com )\n>> ")
-        os.system(f'nmap -sn --packet-trace --send-ip -v {slut}')
+        os.system(f'nmap -sn --traceroute {slut}')
         time.sleep(15)
         input("\033[1;36m" + 'Presiona Cualquier Letra Para Volver Al Menu\n>> ') 
         nmap() 
