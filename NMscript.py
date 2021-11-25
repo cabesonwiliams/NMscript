@@ -1,11 +1,7 @@
 import os
-import colorama
 import time
-from colorama import Fore
 import sys
-import colorama
-from colorama import Fore, Back, Style
-colorama.init(autoreset=True)
+
 
 ############### Banner ###############
 banner2 = "\033[1;36m"+ """
@@ -193,7 +189,6 @@ def nmap():
         os.system("clear")
         print("\033[1;36m" + banner1)
         ipyp = input("\033[1;36m" + "Introduzca una ip\n>> ")
-        print(Fore.BLUE)
         os.system(f'nmap --script safe {ipyp}')
         time.sleep(15)
         input("\033[1;36m" + 'Presiona Cualquier Letra Para Volver Al Menu\n>> ') 
@@ -318,7 +313,7 @@ def nmap():
         os.system("clear")
         print("\033[1;36m" + banner1)
         icmp = input("\033[1;36m" + ("Introduzca una ip\n>> "))
-        paquetes = int(input(Fore.BLUE + ("Introduzca el numero de paquetes\n>>")))
+        paquetes = int(input("\033[1;36m"+ ("Introduzca el numero de paquetes\n>>")))
         os.system(f"nping -c {paquetes} {icmp}") 
         time.sleep(15)
         input("\033[1;36m" + "Presiona Cualquier Letra Para Volver Al Menu\n>> ")
@@ -379,7 +374,7 @@ def script():
         print(banner1)
         target = input("\033[1;36m" + 'Introduzca una ip\n>>')
         Port = input("\033[1;36m" + ("Intoduzca los puertos que va a usar (Si no sabe cuales pruebe con 21)\n>> "))
-        os.system(f'nmap --script ftp-brute -p 21 {target}')
+        os.system(f'nmap --script ftp-brute -p {Port} {target}')
         time.sleep(15)
         input("\033[1;36m" + "Presiona Cualquier Letra Para Volver Al Menu\n>> ")
         script() 
@@ -398,7 +393,7 @@ def script():
         print(banner1)
         target = input("\033[1;36m" +'Introduzca una ip\n>>')
         Port = input("\033[1;36m" + ("Intoduzca los puertos que va a usar (Si no sabe cuales pruebe con 443)\n>> "))
-        os.system(f'nmap -p 443 --script ssl-heartbleed {target}')
+        os.system(f'nmap -p {Port} --script ssl-heartbleed {target}')
         time.sleep(15)
         input("\033[1;36m" + "Presiona Cualquier Letra Para Volver Al Menu\n>> ")
         script()  
@@ -490,4 +485,3 @@ def exit():
 
 
 nmap()
-
